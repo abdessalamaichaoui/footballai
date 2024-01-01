@@ -40,7 +40,7 @@ Some datasets I'm using for this project:
 
 See the project in action:
 
-![Demo](https://github.com/abdessalamaichaoui/footballai/raw/main/media/video2-ezgif.com-video-to-gif-converter.gif)
+![Demo](https://github.com/abdessalamaichaoui/footballai/blob/main/media/raw/main/video2-ezgif.com-video-to-gif-converter.gif)
 
 ## 🤝 Contribute
 
