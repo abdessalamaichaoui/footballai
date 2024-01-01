@@ -7,7 +7,7 @@
 Football is all about precision—every second and every movement counts. This project is my way of exploring how AI and computer vision can help analyze football in new and exciting ways. Here, you'll find tools for tasks like tracking players, detecting jerseys, and calibrating camera views to get better insights from football footage.
 
 ## 🏆 Challenges
-(https://github.com/abdessalamaichaoui/footballai/blob/main/media/raw/main/football-ai-diagram.png)
+![Football AI Diagram](https://github.com/abdessalamaichaoui/footballai/raw/main/media/football-ai-diagram.png)
 I'm working on solving some key challenges in football analytics using AI and computer vision:
 
 - **Ball tracking:** Keeping up with a fast-moving ball is tough, especially in high-speed footage.
