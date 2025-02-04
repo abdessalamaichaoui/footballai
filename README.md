@@ -1,6 +1,11 @@
 # Football AI Vision
 
-[Notebooks](https://github.com/roboflow/notebooks) | [Demos](#-demos) | [Datasets](#-datasets) | [Contribute](#-contribute)
+## 🔥 Demos
+
+See the project in action:
+
+![Demo](https://github.com/abdessalamaichaoui/footballai/blob/main/media/raw/main/video2-ezgif.com-cut.gif)
+
 
 ## 👋 Welcome!
 
@@ -35,12 +40,6 @@ Some datasets I'm using for this project:
 | Football player detection | [Download](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc) |
 | Football ball detection   | [Download](https://universe.roboflow.com/roboflow-jvuqo/football-ball-detection-rejhg)    |
 | Football field keypoints  | [Download](https://universe.roboflow.com/roboflow-jvuqo/football-field-detection-f07vi)   |
-
-## 🔥 Demos
-
-See the project in action:
-
-![Demo](https://github.com/abdessalamaichaoui/footballai/blob/main/media/raw/main/video2-ezgif.com-cut.gif)
 
 ## 🤝 Contribute
 
